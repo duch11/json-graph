@@ -1,4 +1,24 @@
-# Graph Visualization Project
+# Graph Python
+
+## Prerequisites
+
+You'll need to install networkx and matplotlib if you haven't already. You can install them with:
+
+```
+pip install networkx matplotlib
+```
+
+## Running the Code
+
+Save your JSON data in a file (e.g., graph.json), place it in the same directory as the script, and run the script. It will display a graph with nodes and edges as described in your JSON.
+
+```
+python graph.py
+```
+
+# Graph js Visualization Project
+
+
 
 This project visualizes graph data from a JSON file (`graph.json`) using D3.js. You can run the project in any workspace that supports HTML, JavaScript, and JSON files.
 
