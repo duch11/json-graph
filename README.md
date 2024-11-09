@@ -16,9 +16,7 @@ Save your JSON data in a file (e.g., graph.json), place it in the same directory
 python graph.py
 ```
 
-# Graph js Visualization Project
-
-
+# Graph JavaScript
 
 This project visualizes graph data from a JSON file (`graph.json`) using D3.js. You can run the project in any workspace that supports HTML, JavaScript, and JSON files.
 
